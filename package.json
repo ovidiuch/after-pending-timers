@@ -1,0 +1,16 @@
+{
+  "name": "after-pending-timers",
+  "version": "0.0.1",
+  "description": "Wait for pending timers to complete",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skidding/after-pending-timers.git"
+  },
+  "author": "Ovidiu Cherecheș",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skidding/after-pending-timers/issues"
+  },
+  "homepage": "https://github.com/skidding/after-pending-timers#readme"
+}
